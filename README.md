@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: m.haefling@protonmail.com
+- 🏫 I'm currently in Mod3 of Turing School of Software and Design
+- 🌱 I'm currently learning Ruby on Rails, JavaScript, React
+- 😄 He/Him
